@@ -1,2 +1,0 @@
-# nexio
-A social network
